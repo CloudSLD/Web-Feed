@@ -24,6 +24,8 @@ yarn dev
 
 Abra [http://localhost:3000](http://localhost:3000) em seu browser para ver o resultado.
 
+ACESSAR O PROJETO: https://velvety-twilight-1a2bc1.netlify.app/
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
